@@ -1,0 +1,6 @@
+[1122/014535.637:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/014838.792:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/015134.720:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/015151.047:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/132439.670:ERROR:process_info.cc(359)] UncheckedAllocate
+[1122/132439.689:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Sebastian\AppData\Local\Temp\scoped_dir17584_499916330\Crashpad\attachments\2d81b7eb-bf55-4736-8f56-55e6bb2a68cd: The system cannot find the path specified. (0x3)
